@@ -4,7 +4,7 @@ criado com create-expo-app.
 
 1- Ter o node.js instalado em sua máquina (essencial para rodar utilizando o expo)
 
-2 - Digitar "npx create-expo-app@latest yoogav1" no CMD. - (A pasta geralmente é criada em c/users/)
+2 - Digitar "npx create-expo-app@latest (nome da pasta)" no CMD. - (A pasta geralmente é criada em c/users/)
 
 3 - Substituir os arquivos da pasta criada pelos arquivos baixados no github.
 
