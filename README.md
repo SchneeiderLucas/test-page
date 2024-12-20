@@ -25,6 +25,6 @@ o posicionamento correto)
 -A opção de utilizar um intra-css no código foi total para facilitar o desenvolvimento do mesmo e torna-lo de fácil modificação,
 também diminuindo a possibilidade de erros no componente.
 
-- O Layou responsivo foi pensado somente em smartphones como o pedido no projeto, por isso ignorem o comportamento do mesmo no ambiente Web.
+- O Layout responsivo foi pensado somente em smartphones como o pedido no projeto, por isso ignorem o comportamento do mesmo no ambiente Web.
 
 Espero que gostem ;).
