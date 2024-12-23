@@ -6,7 +6,7 @@ import { Feather } from '@expo/vector-icons';
 export function Section() {
   return (
     <View>
-     <text>123</text>
+     <text></text>
     </View>
   );
 }
